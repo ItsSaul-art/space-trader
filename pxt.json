@@ -1,0 +1,49 @@
+{
+    "name": "Space Trader",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#FF004D",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#1D2B53"
+    ]
+}
