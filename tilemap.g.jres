@@ -37,29 +37,6 @@
         ],
         "displayName": "level1"
     },
-    "level2": {
-        "id": "level2",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDBhMGEwYTBiMGIwYTBiMGIwYjBhMGIwYjBiMGEwYTBiMGIwMjAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzA0MDEwYjA1MGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMDkwYTAxMDUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwOTBiMGIwNTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTA5MGIwYTA1MGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMDkwMTBhMDUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwOTBiMDEwNTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTA5MGIwMTA1MGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMDkwMTAxMDUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwOTBhMDEwNTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTA5MGEwYTA1MGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMDkwZDBhMDUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwOTAxMGEwNTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTA5MDEwYjA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDgwYjBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
-        "tileset": [
-            "myTiles.transparency16",
-            "sprites.castle.tileGrass2",
-            "sprites.castle.tilePath1",
-            "sprites.castle.tilePath2",
-            "sprites.castle.tilePath3",
-            "sprites.castle.tilePath4",
-            "sprites.castle.tilePath7",
-            "sprites.castle.tilePath8",
-            "sprites.castle.tilePath9",
-            "sprites.castle.tilePath6",
-            "sprites.castle.tileGrass1",
-            "sprites.castle.tileGrass3",
-            "sprites.castle.tileDarkGrass1",
-            "sprites.builtin.forestTiles0",
-            "sprites.castle.tilePath5"
-        ],
-        "displayName": "level2"
-    },
     "level3": {
         "id": "level3",
         "mimeType": "application/mkcd-tilemap",
@@ -68,6 +45,29 @@
             "myTiles.transparency16"
         ],
         "displayName": "level3"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA0MDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAyMDUwYjBiMGIwYjBiMGIwYjBiMGIwYjBiMGIwYjBiMDEwNTBiMGMwYjBjMGIwYzBjMGMwYjBiMGIwYjBjMGIwMTA1MGIwYzBjMGMwYjBjMGIwYzBiMGIwYzBiMGIwYjAxMDUwYjBiMGIwYjBjMGIwYjBiMGQwZTBlMGMwYjBiMDEwNTBiMGUwYjBjMGIwYjBjMGIwYjBkMGUwYjBiMGIwMTA1MGUwZDBiMGIwYjBiMGIwYjBiMGIwYjBjMGMwYjAxMDUwYzBjMGIwYjBjMGIwYzBjMGMwYzBiMGIwYzBiMDEwNTBiMGIwYjBkMGIwYjBiMGIwYjBiMGIwYjBjMGIwMTA1MGIwYzBiMGUwYjBjMGMwYjBiMGMwYjBkMGUwYjAxMDUwYjBjMGIwYjBiMGIwYjBiMGIwYzBiMGMwYzBiMDEwNTBiMGMwYzBjMGIwYjBjMGIwYjBkMGIwYzBjMGIwMTA1MGIwYzBiMGUwZDBiMGIwYjBiMGIwYjBjMGIwYjAxMDUwYjBiMGMwYzBjMGMwYjBiMGMwYjBjMGIwYjBiMDEwNTBiMGIwYjBiMGIwYjBiMGIwYzBiMGIwYjBjMGIwMTA2MDcwNzA3MDcwNzA5MGEwYTA5MDcwNzA3MDcwNzA4MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterNorth1",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterSouthWest",
+            "sprites.dungeon.purpleOuterSouth2",
+            "sprites.dungeon.stairSouth",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.floorLight1",
+            "sprites.dungeon.floorMixed",
+            "sprites.dungeon.floorDark1"
+        ],
+        "displayName": "level2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
